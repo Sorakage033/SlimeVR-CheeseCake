@@ -36,8 +36,8 @@ There is 3 Versions of PCB included in this Project:
 ### Additional Charging Dock
 
 ## Printing
-The printing files included in these parts:
-1."CheeseCake"'s Case
-2.Top of Case(In the case that cannot got custom acrylic )
-3.2 kinds of Holder
-4.Charging Dock's Case
+The printing files included in these parts:    
+1."CheeseCake"'s Case    
+2.Top of Case(In the case that cannot got custom acrylic )    
+3.2 kinds of Holder    
+4.Charging Dock's Case    
