@@ -1,3 +1,5 @@
+![Intro-GIF](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-GIF.gif) 
+
 # SlimeVR-CheeseCake
 Very delicious Cheesecake. Designed by Sorakage
 
