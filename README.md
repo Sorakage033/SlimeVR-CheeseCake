@@ -23,7 +23,7 @@ For the CheeseCake you will need the following components:
 ●Soldering Iron/Station  
 
 ## Versions
-There is 3 Versions of PCB included in this Project:   
+There are 3 Versions of PCB included in this Project:   
 ### BMI160-「Cheese」
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_160.png?raw=true" width="30%">   
 
