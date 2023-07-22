@@ -7,6 +7,10 @@ Very delicious Cheesecake. Designed by Sorakage
 "CheeseCake" is a Lighter, portable and better looking full body tracking device.   
 Based on SlimeVR   
 With 8-port charging dock, eliminating wiring troubles.   
+# CAUTION：   
+**Before flashing the firmware, the board must be connected to the battery.**    
+This design removes the protection diode, and USB5V is supplied to the battery via the on-board charging chip TP4057.    
+The on-board charger will not output voltage without connected to the battery.    
 
 
 ## Index
