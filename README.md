@@ -47,7 +47,8 @@ The printing files included in these parts:
 3.2 kinds of Holder    
 4.Charging Dock's Case     
 
-## Assembly
+## Assembly    
+    
 1.  Apply about 2cm foam tape on the inner side of the case (with M2*7mm hexagonal spacers installed by a HAMMER or whatever)      
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-01.png" width="80%">     
 2.  Place the switch part in position and affix the battery to the case.
@@ -56,6 +57,6 @@ The printing files included in these parts:
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-03.png" width="80%">    
 4.  When installing the PCB, put the switch to the "UP" position, tilt it towards the side with the switch. Fit it into the reserved slot on the 3d printing part.    
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-04.png" width="80%">    
-5.  Press the PCB at the side away from the switch.    
+5.  Tilt the board slightly towards the USB-C side, push the PCB at the side away from the switch.    
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-05.png" width="80%">     
 6.  Press the whole PCB at position, screw on M2*5mm screws.    
