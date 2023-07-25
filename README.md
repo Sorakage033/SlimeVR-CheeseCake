@@ -17,6 +17,7 @@ The on-board charger will not output voltage without connected to the battery.
 - [Components](#Components)
 - [Versions](#Versions)
 - [Printing](#Printing)
+- [Assembly](#Assembly)
 
 ## Components 
 For the CheeseCake you will need the following components:   
@@ -44,4 +45,8 @@ The printing files included in these parts:
 1."CheeseCake"'s Case    
 2.Top of Case(In the case that cannot got custom acrylic )    
 3.2 kinds of Holder    
-4.Charging Dock's Case    
+4.Charging Dock's Case     
+
+## Assembly
+1.Apply about 2cm foam tape on the inner side of the case (with M2*7mm hexagonal spacers installed by a HAMMER or whatever)
+2.
