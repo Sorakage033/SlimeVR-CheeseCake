@@ -38,6 +38,11 @@ There are 3 Versions of PCB included in this Project:
 ### BNO085-「Choco」SpecialRemake(With AUX port)
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_Special%20remake_AUX.png?raw=true" width="30%">    
 
+### BNO085-「Choco」SpecialRemake(With AUX port and DC-DC Buck power supply)    
+This might be the best CheeseCake ever. To extend the battery life, it have some magic in it:    
+DC-DC Buck Power Supply, which can save up to 18% of power consumption (in 4.2V,LDO need 90mA, but DC-DC only need 74mA).
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_Special%20remake_DCDC.png?raw=true" width="30%">    
+
 ### Additional Charging Dock
 
 ## Printing
