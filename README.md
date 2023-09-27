@@ -66,7 +66,7 @@ While using this version, the code in ``define.h`` must be change to:
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
 
 It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX port through ``JST 1.25mm 5pin Same Direction wire`` like pic below:      
-<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_CONN_sample.png?raw=true" width="30%">       
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_CONN_sample.png?raw=true" width="80%">       
 
 And the DEG of this module is fixed to ``DEG_0`` when installed on 「Choco」SpecialRemake or Y axis towards up.        
 
