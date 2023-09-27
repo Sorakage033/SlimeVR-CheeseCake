@@ -72,6 +72,10 @@ It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX p
 
 And the DEG of this module is fixed to ``DEG_0`` when installed on 「Choco」SpecialRemake or Y axis towards up.        
 
+Also, if you want to upgrade your SlimeVR but not using 「Choco」SpecialRemake, it has a smaller version of SK-BMI270:     
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270_Smol.png?raw=true" width="25%">     
+Though it has a smaller size, if it was soldered on 「Choco」SpecialRemake, it looks a little bit unbalance.      
+
 ### Additional Charging Dock
 
 ## Printing
