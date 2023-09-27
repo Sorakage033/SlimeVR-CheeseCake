@@ -42,7 +42,27 @@ There are 3 Versions of PCB included in this Project:
 This might be the best CheeseCake ever. To extend the battery life, it have some magic in it:    
 DC-DC Buck Power Supply, which can save up to 18% of power consumption (in 4.2V,LDO need 90mA, but DC-DC only need 74mA).    
 And in order to improve signal quality over long distances, leave some Keep-out area at ESP-12F's antenna.    
+While using this version, the code in ``define.h`` must be change to:      
+    #elif BOARD == BOARD_NODEMCU || BOARD == BOARD_WEMOSD1MINI
+      #define PIN_IMU_SDA D2
+      #define PIN_IMU_SCL D1
+      #define PIN_IMU_INT D5
+      #define PIN_IMU_INT_2 D6
+      #define PIN_BATTERY_LEVEL A0
+      #ifndef BATTERY_SHIELD_RESISTANCE
+        #define BATTERY_SHIELD_RESISTANCE 0
+      #endif
+      #ifndef BATTERY_SHIELD_R1 
+        #define BATTERY_SHIELD_R1 10
+      #endif
+      #ifndef BATTERY_SHIELD_R2
+        #define BATTERY_SHIELD_R2 47
+      #endif
+    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_Special%20remake_DCDC.png?raw=true" width="30%">    
+
+### AUX MODULE - SK-BMI270    
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
 
 ### Additional Charging Dock
 
