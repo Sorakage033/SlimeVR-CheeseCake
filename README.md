@@ -24,7 +24,7 @@ For the CheeseCake you will need the following components:
 ●PCB produced by JLC PCBA   
 ●3D Print Parts   
 ●38 or 40mm straps   
-●Li-po Battery(*803035 800/900mAhis what the docs suggest*) 
+●Li-po Battery(*803035 800/900mAhis what the docs suggest*)     
 ●Soldering Iron/Station  
 
 ## Versions
@@ -43,6 +43,7 @@ This might be the best CheeseCake ever. To extend the battery life, it have some
 DC-DC Buck Power Supply, which can save up to 18% of power consumption (in 4.2V,LDO need 90mA, but DC-DC only need 74mA).    
 And in order to improve signal quality over long distances, leave some Keep-out area at ESP-12F's antenna.    
 While using this version, the code in ``define.h`` must be change to:      
+```
     #elif BOARD == BOARD_NODEMCU || BOARD == BOARD_WEMOSD1MINI
       #define PIN_IMU_SDA D2
       #define PIN_IMU_SCL D1
@@ -57,12 +58,15 @@ While using this version, the code in ``define.h`` must be change to:
       #endif
       #ifndef BATTERY_SHIELD_R2
         #define BATTERY_SHIELD_R2 47
-      #endif
-    
+      #endif    
+```  
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_Special%20remake_DCDC.png?raw=true" width="30%">    
 
 ### AUX MODULE - SK-BMI270    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
+
+It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX port through ``JST 1.25mm 5pin Same Direction wire``.      
+And the DEG of this module is fixed to ``DEG_0`` when installed on 「Choco」SpecialRemake or Y axis towards up.        
 
 ### Additional Charging Dock
 
