@@ -24,7 +24,7 @@ For the CheeseCake you will need the following components:
 ●PCB produced by JLC PCBA   
 ●3D Print Parts   
 ●38 or 40mm straps   
-●Li-po Battery(*803035 800/900mAhis what the docs suggest*) 
+●Li-po Battery(*803035 800/900mAhis what the docs suggest*)     
 ●Soldering Iron/Station  
 
 ## Versions
@@ -64,7 +64,7 @@ While using this version, the code in ``define.h`` must be change to:
 
 ### AUX MODULE - SK-BMI270    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
-It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX port through JST 1.25mm 5pin **Same Direction** wire      
+It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX port through JST 1.25mm 5pin __Same Direction__ wire.      
 
 ### Additional Charging Dock
 
