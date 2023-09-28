@@ -21,11 +21,12 @@ The on-board charger will not output voltage without connected to the battery.
 
 ## Components 
 For the CheeseCake you will need the following components:   
-●PCB produced by JLC PCBA   
-●3D Print Parts   
-●38 or 40mm straps   
-●Li-po Battery(*803035 800/900mAhis what the docs suggest*)     
-●Soldering Iron/Station  
+- PCB produced by JLC PCBA   
+- 3D Print Parts   
+- 38 or 40mm straps   
+- Li-po Battery (*803035 800/900mAh is what the docs suggest*) 
+- Pogo Pins (Optional for specific supported PCBs) [\[More Info\]](001-‘’Cheese‘’/POGOPIN%20purchase%20Link.txt)
+- Soldering Iron/Station 
 
 ## Versions
 There are 3 Versions of PCB included in this Project:   
