@@ -11,6 +11,9 @@ With 8-port charging dock, eliminating wiring troubles.
 **Before flashing the firmware, the board must be connected to the battery.**    
 This design removes the protection diode (to prevent Li-po battery overcharged while uploading firmware), and USB-5V is supplied to the battery via the on-board charging chip TP4057.    
 **The on-board charger will not output voltage without connected to the battery.**        
+## Extra Info:      
+Any kind of modification are welcome!         
+It can be even better if you can credit me on the modified PCB with [\[This LOGO\]](999-PictureFiles/SK-LOGO.png)     
 
 
 ## Index
