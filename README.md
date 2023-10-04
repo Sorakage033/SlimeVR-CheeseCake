@@ -73,7 +73,7 @@ While using this version, the code in ``define.h`` must be change to:
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
 
 ```
-    The default IMU on BMI MOD is BMI270, but you can change it to BMI160/BMI323 or other IMUs at PCBA page.
+The default IMU on BMI MOD is BMI270, but you can change it to BMI160/BMI323 or other IMUs at PCBA page.
 ```
 It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX port through ``JST 1.25mm 5pin`` like pic below:      
 Note: the two connectors are MIRROR      
