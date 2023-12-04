@@ -88,14 +88,35 @@ Also, if you want to upgrade your SlimeVR but not using 「Choco」SpecialRemake
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270_Smol.png?raw=true" width="25%">     
 Though it has a smaller size, if it was soldered on 「Choco」SpecialRemake, it looks a little bit unbalance.      
 
-### Additional Charging Dock
+## 3D Printing for SlimeVR-CheeseCake
 
-## Printing
-The printing files included in these parts:    
-1."CheeseCake"'s Case    
-2.Top of Case(In the case that cannot got custom acrylic )    
-3.2 kinds of Holder    
-4.Charging Dock's Case     
+This repository contains various 3D printed components required to assemble the SlimeVR-CheeseCake. Below are the necessary files and instructions.
+
+### CheeseCake Case
+- **Main Case**: [CheeseCake Case with AUX](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.2-Chocolate-Case-With-AUX.stl) - Recommended design compatible with any 3D filament.
+- **Alternative Designs**:
+  - [Case with USB Port Only](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.3-Chocolate-Case_TypeC-Only.stl)
+  - [Case with Pogo Pins Cutout](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.1-Chocolate-Case.stl)
+
+### Top Lid
+- **3D Printed Option**: [3D Printed Top Lid](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/002-Cake-Top.stl)
+- **Acrylic Option**: For a 4mm transparent acrylic lid, use the dimensions provided in [this file](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/AcrylicTop-CutSize-Thickness4mm.png).
+
+### Essential Component
+- **Switch Component**: [Switch for Case](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/003-SW.stl) - This part is crucial for the assembly.
+
+### Holders (Recommended to Print in PETG Filament)
+- [Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-''CLAMP''Holder.stl)
+- [GoPro Compatible Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-1-''CLAMP''GoPro_Holder.stl) - For GoPro chest harness compatibility.
+- [Slide Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/005-''SLIDE''Holder.stl)
+
+### Charging Dock (Recommended to Build the 8-Tracker ChargeDock)
+- **8-Tracker ChargeDock**:
+  - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Top-Optimized.stl)
+  - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Bottom-Optimized.stl)
+- **6-Tracker ChargeDock**:
+  - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-6port-Top.stl)
+  - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-6port-Bottom.stl)
 
 ## Assembly    
     
