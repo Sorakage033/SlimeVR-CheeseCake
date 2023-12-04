@@ -66,8 +66,11 @@ While using this version, the code in ``define.h`` must be change to:
       #ifndef BATTERY_SHIELD_R2
         #define BATTERY_SHIELD_R2 47
       #endif    
-```  
+```      
 
+### LSM6DSV16XTR-「Blueberry」(With AUX port and DC-DC Buck power supply)      
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_LSM6DSV%20‘’Blueberry‘’.png?raw=true" width="30%">      
+It exists, therefore I designed.
 
 ### AUX MODULE - SK-BMI MOD    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
