@@ -104,13 +104,17 @@ This repository contains various 3D printed components required to assemble the 
 
 ### Essential Component
 - **Switch Component**: [Switch for Case](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/003-SW.stl) - This part is crucial for the assembly.
+- Note: If it's hard to assemble, you can try narrowing the switch by scaling down the Z-axis.
 
 ### Holders (Recommended to Print in PETG Filament)
 - [Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-''CLAMP''Holder.stl)
-- [GoPro Compatible Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-1-''CLAMP''GoPro_Holder.stl) - For GoPro chest harness compatibility.
+- [GoPro Chest Harness Compatible Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-1-''CLAMP''GoPro_Holder.stl) - For GoPro chest harness compatibility.
 - [Slide Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/005-''SLIDE''Holder.stl)
 
-### Charging Dock (Recommended to Build the 8-Tracker ChargeDock)
+### Charging Dock (Recommended to Build the Type-C ChargeDock)
+- **8-Tracker Type-C ChargeDock**
+  - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Top.stl)
+  - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Bottom.stl)
 - **8-Tracker ChargeDock**:
   - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Top-Optimized.stl)
   - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Bottom-Optimized.stl)
