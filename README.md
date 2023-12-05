@@ -74,8 +74,8 @@ It exists, therefore I designed.
 
 ### ICM-42688-「RareCheese」(With external oscillator , AUX port and DC-DC Buck power supply)    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_ICM42688“RareCheese”.png?raw=true" width="30%">      
-All Japanese love Rare CheeseCake a lot, I love it too.         
-And I hope you can also like it.       
+All Japanese love Rare CheeseCake a lot, I love it too.    
+And I hope you can also like it.    
 
 ### AUX MODULE - SK-BMI MOD    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
