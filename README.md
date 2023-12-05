@@ -120,7 +120,7 @@ This repository contains various 3D printed components required to assemble the 
 
 ### Charging Dock (Recommended to Build the Type-C ChargeDock)
 - **8-Tracker Type-C ChargeDock**     
-<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_Type-c%20Charging%20Dock.png?raw=true" width="50%">
+  <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_Type-c%20Charging%20Dock.png?raw=true" width="100%">
   - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Top.stl)
   - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Bottom.stl)
 - **8-Tracker ChargeDock**:
