@@ -70,7 +70,12 @@ While using this version, the code in ``define.h`` must be change to:
 
 ### LSM6DSV16XTR-「Blueberry」(With AUX port and DC-DC Buck power supply)      
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_LSM6DSV%20‘’Blueberry‘’.png?raw=true" width="30%">      
-It exists, therefore I designed.
+It exists, therefore I designed.       
+
+### ICM-42688-「RareCheese」(With external oscillator , AUX port and DC-DC Buck power supply)    
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_ICM42688“RareCheese”.png?raw=true" width="30%">      
+All Japanese love Rare CheeseCake a lot, I love it too.         
+And I hope you like it too.
 
 ### AUX MODULE - SK-BMI MOD    
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png?raw=true" width="30%">        
@@ -112,7 +117,8 @@ This repository contains various 3D printed components required to assemble the 
 - [Slide Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/005-''SLIDE''Holder.stl)
 
 ### Charging Dock (Recommended to Build the Type-C ChargeDock)
-- **8-Tracker Type-C ChargeDock**
+- **8-Tracker Type-C ChargeDock**     
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_Type-c%20Charging%20Dock.png?raw=true" width="50%">
   - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Top.stl)
   - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Bottom.stl)
 - **8-Tracker ChargeDock**:
