@@ -103,7 +103,8 @@ This repository contains various 3D printed components required to assemble the 
 - **Main Case**: [CheeseCake Case with AUX](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.2-Chocolate-Case-With-AUX.stl) - Recommended design compatible with any 3D filament.
 - **Alternative Designs**:
   - [Case with USB Port Only](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.3-Chocolate-Case_TypeC-Only.stl)
-  - [Case with Pogo Pins Cutout](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.1-Chocolate-Case.stl)
+  - [Case with Pogo Pins Cutout](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.1-Chocolate-Case.stl)    
+- If you want a larger battery, you can use the [803040-case](https://github.com/Sorakage033/SlimeVR-CheeseCake/tree/main/004-3D%20Print%20Model/000.1-Blue-Compact-Case-For-803040-Bat) modified by Blu3u.
 
 ### Top Lid
 - **3D Printed Option**: [3D Printed Top Lid](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/002-Cake-Top.stl)
