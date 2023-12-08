@@ -88,8 +88,8 @@ The default IMU on BMI MOD is BMI270, but you can change it to BMI160/BMI323 or 
 It can be solodered on 「Choco」SpecialRemake directly or connect to the AUX port through ``JST 1.25mm 5pin`` like pic below:      
 Note: the two connectors are MIRROR      
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_CONN_sample.png?raw=true" width="100%">       
-**Notice:If you want to use it both solder it on Choco-SpecialRemake and use as AUX, I recommend order JST connector separately and soldering them on by yourself.**    
-**With AUX connector it can't fix acrylic top lid, or you need to carve a groove in the corresponding position of the 3D print top lid.**    
+- **Notice:If you want to use it both solder it on Choco-SpecialRemake and use as AUX, I recommend order JST connector separately and soldering them on by yourself.**       
+- **With AUX connector it too thick to fix acrylic top lid, or you need to carve a groove in the corresponding position of the 3D print top lid.**    
 
 And the DEG of this module is fixed to ``DEG_0`` when installed on 「Choco」SpecialRemake or Y axis towards up.        
 
