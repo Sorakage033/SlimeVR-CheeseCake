@@ -81,7 +81,7 @@ And I hope you can also like it.
 
 ### AUX MODULE - SK-MOD       
 
-<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png" width="25%"><img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_LSMMOD.png" width="25%"><img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_ICMMOD.png" width="25%">      
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_SK-BMI270.png" width="30%"><img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_LSMMOD.png" width="30%"><img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_ICMMOD.png" width="30%">      
 Including 3 different MOD: BMI series, LSM6DSV series and ICM-42688(with External Clock)
 
 ```
