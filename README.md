@@ -8,6 +8,8 @@ Very delicious Cheesecake. Designed by Sorakage
 Based on SlimeVR   
 With 8-port charging dock, eliminating wiring troubles.   
 # CAUTION：   
+**When you placing an order in JLCPCB, remember change thickness to 1mm!**    
+    
 **Before flashing the firmware, the board must be connected to the battery.**    
 This design removes the protection diode (to prevent Li-po battery overcharged while uploading firmware), and USB-5V is supplied to the battery via the on-board charging chip TP4057.    
 **The on-board charger will not output voltage without connected to the battery.**        
