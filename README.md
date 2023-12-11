@@ -28,7 +28,9 @@ For the CheeseCake you will need the following components:
 - PCB produced by JLC PCBA   
 - 3D Print Parts   
 - 38 or 40mm straps   
-- Li-po Battery (*803035 800/900mAh is what the docs suggest*) 
+-   Li-po Battery (_803035 800/900mAh is what the docs suggest_)
+    -   **Ensure the battery is no larger than 80mm in depth, 30mm in width, and 35mm in height to fit the case.**
+    -   **Verify the battery dimensions with the seller before purchase. Some sellers list 803035 batteries with dimensions exceeding 80mm x 30mm x 35mm, which will not fit in the 3D printed case.**
 - Pogo Pins (Optional for specific supported PCBs) [\[More Info\]](001-‘’Cheese‘’/POGOPIN%20purchase%20Link.txt)
 - Soldering Iron/Station 
 
@@ -127,7 +129,7 @@ This repository contains various 3D printed components required to assemble the 
 
 ### Charging Dock (Recommended to Build the Type-C ChargeDock)
 - **8-Tracker Type-C ChargeDock**     
-  <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_Type-c%20Charging%20Dock.png?raw=true" width="100%">
+  <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_Type-c%20Charging%20Dock.png?raw=true" width="40%">
   - [Top Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Top.stl)
   - [Bottom Part](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/ChargeDock-8port-Typec-Bottom.stl)
 - **8-Tracker ChargeDock**:
