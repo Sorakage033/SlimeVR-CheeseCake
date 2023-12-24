@@ -32,10 +32,14 @@ I've made several minor improvements to the 3D models specifically for FDM print
 
 Make sure that your filament is at least PETG, kept in a good condition, printed with optimal settings, and preferably with 100% infill modifier at weak spots - as shown in the screenshot. This slightly reduces the risk of breakage. Better safe than sorry!
 
+![HolderPrusa](https://github.com/Blu3u/SlimeVR-CheeseCake/assets/9294002/ca0ab511-24a7-40b3-9fa5-f7bf76bf858f)
+
 - Print the cases: `USBC` regular, `USBC+AUX` regular, and `AUX low profile` for secondary IMU variants.
 - Print the 3mm case top lids.
 - Use the M2 screws. I intentionally kept the single screw hole near USBC port. It prevents the board from shifting.
 - (optional) Use gorilla tape on the secondary IMU. In my case it wasn't necessary but I kept the cuboid intended for the tape in the final print.
 - (optional) Print the holders for 5cm straps. Remember to measure your straps before printing.
+
+![image](https://github.com/Blu3u/SlimeVR-CheeseCake/assets/9294002/d37fdc59-d654-424f-81c0-b630ab84ebe1)
 
 I'm happy with the result. I hope the models will be useful.
