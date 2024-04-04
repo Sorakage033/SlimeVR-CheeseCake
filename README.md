@@ -155,6 +155,12 @@ This repository contains various 3D printed components required to assemble the 
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-05.png" width="80%">     
 6.  Press the whole PCB at position, screw on M2*5mm screws.      
       
+## Dock Assembly    
+
+1.  Install M2*7mm hexagonal spacers into chargedock top piece. (either with a HAMMER, or push the spacer into the hole with a soldering iron to melt it in place).
+3.  Insert PCB into chargedock bottom.
+4.  Press the chargedock bottom into position, screw on M2*5mm screws.
+
 ## Support
 If this project can help you I would be very happy!      
 And also, if you want to give me some support, you can support me on [BOOTH](https://sorakage033.booth.pm/items/4859476)!
