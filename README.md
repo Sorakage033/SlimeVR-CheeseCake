@@ -118,6 +118,7 @@ This repository contains various 3D printed components required to assemble the 
 
 ### Top Lid
 - **3D Printed Option**: [3D Printed Top Lid](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/002-Cake-Top.stl)
+- Note: Use elephant foot compensation to reduce fitting issues.
 - **Acrylic Option**: For a 4mm transparent acrylic lid, use the dimensions provided in [this file](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/AcrylicTop-CutSize-Thickness4mm.png).
 
 ### Essential Component
@@ -143,17 +144,17 @@ This repository contains various 3D printed components required to assemble the 
 
 ## Assembly    
     
-1.  Apply about 2cm foam tape on the inner side of the case (with M2*7mm hexagonal spacers installed by a HAMMER or whatever)      
+1.  Apply about 2cm foam tape on the inner side of the case. Install two M2*7mm hexagonal spacers (either with a HAMMER, or push the spacer into the hole with a soldering iron to melt it in place)      
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-01.png" width="80%">     
 2.  Place the switch part in position and affix the battery to the case.
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-02.png" width="80%">    
 3.  Bend the battery wire to ensure it can be tucked into the reserved gap during installation.    
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-03.png" width="80%">    
-4.  When installing the PCB, put the switch to the "UP" position, tilt it towards the side with the switch. Fit it into the reserved slot on the 3d printing part.    
+4.  When installing the PCB, put the switch to the "UP" position, tilt it towards the side with the switch. Fit it into the reserved slot on the 3d printing part. It is extremely easy to break this switch!    
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-04.png" width="80%">    
 5.  Tilt the board slightly towards the USB-C side, push the PCB at the side away from the switch.    
 <img decoding="async" src="https://raw.githubusercontent.com/Sorakage033/SlimeVR-CheeseCake/main/999-PictureFiles/A-05.png" width="80%">     
-6.  Press the whole PCB at position, screw on M2*5mm screws.      
+6.  Press the whole PCB at position, screw on M2*5mm screws and pressure fit the cover.      
       
 ## Dock Assembly    
 
