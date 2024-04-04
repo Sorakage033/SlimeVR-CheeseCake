@@ -125,9 +125,11 @@ This repository contains various 3D printed components required to assemble the 
 - Note: If it's hard to assemble, you can try narrowing the switch by scaling down the Z-axis.
 
 ### Holders (Recommended to Print in PETG Filament)
-- [Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-''CLAMP''Holder.stl)
+- [Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-''CLAMP''Holder.stl) - Fits 4cm and 3cm straps.
+- [Clamp Holder 5cm Strap](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-2-''CLAMP''Holder.stl) - Fits 5cm straps.
 - [GoPro Chest Harness Compatible Clamp Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/004-1-''CLAMP''GoPro_Holder.stl) - For GoPro chest harness compatibility.
-- [Slide Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/005-''SLIDE''Holder.stl)
+- [Slide Holder](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/005-''SLIDE''Holder.stl) - Fits 4cm and 3cm straps.
+- [Slide Holder 5cm Strap](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/005-1-''SLIDE''Holder.stl) - Fits 5cm straps.
 
 ### Charging Dock (Recommended to Build the Type-C ChargeDock)
 - **8-Tracker Type-C ChargeDock**     
