@@ -75,7 +75,7 @@ While using this version, the code in ``define.h`` must be change to:
       #endif    
 ```      
 
-### LSM6DSV16XTR-「Blueberry」(With AUX port and DC-DC Buck power supply)      
+### LSM6DSVTR-「Blueberry」(With AUX port and DC-DC Buck power supply)      
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_LSM6DSV%20‘’Blueberry‘’.png?raw=true" width="30%">      
 
 It exists, therefore I designed.       
