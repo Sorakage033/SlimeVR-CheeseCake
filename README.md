@@ -41,7 +41,7 @@ There are 3 Versions of PCB included in this Project:
 ### BMI270-「Cheese RV」
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_BMI270-RV.png?raw=true" width="30%">   
 
-Because BMI160 is EOL now, Update a BMI270 version, it has a JST 2.0mm battery connector and reverse to match Type-C Charging Dock.      
+Because BMI160 is EOL now, Update a BMI270 version, it has a JST 2.0mm battery connector(Battery+ is left) and reverse to match Type-C Charging Dock.      
 But it doesn't include AUX connector, if you want make a BMI270 with AUX, check "Cheese with AUX".       
 
 ### BNO085-「Choco」SpecialRemake
