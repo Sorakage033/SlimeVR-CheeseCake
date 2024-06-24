@@ -79,7 +79,7 @@ While using this version, the code in ``define.h`` must be change to:
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_LSM6DSV%20‘’Blueberry‘’.png?raw=true" width="30%">      
 
 The new version of LSM6DSV includes a battery connector and a magnetometer, which may provide better tracking performance and relieve those who want to make their own tracker from the hassle of soldering.       
-The battrey connector have 2 types to choose: JST2.0mm and JST1.25mm. Regardless of the type of connector, the positive of the battery is always on the left side.
+The battrey connector have 2 types to choose: JST2.0mm and JST1.25mm. Regardless of the type of connector, the positive of the battery is always on the left side.      
 But the AUX port was replaced by battery connector, if you want make LSM6 with AUX, check "Old_Version".      
 **SPECIAL CAUTION**     
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/006-LSM6DSV%20%E3%80%8CBlueberry%E3%80%8D/CAUTION.png" width="80%">
