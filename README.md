@@ -75,10 +75,14 @@ While using this version, the code in ``define.h`` must be change to:
       #endif    
 ```      
 
-### LSM6DSVTR-「Blueberry」(With AUX port and DC-DC Buck power supply)      
+### LSM6DSV-「Blueberry」(With DC-DC Buck power supply and Battery connector)      
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro-3D_LSM6DSV%20‘’Blueberry‘’.png?raw=true" width="30%">      
 
-It exists, therefore I designed.       
+The new version of LSM6DSV includes a battery connector and a magnetometer, which may provide better tracking performance and relieve those who want to make their own tracker from the hassle of soldering.       
+But the AUX port was replaced by battery connector, if you want make LSM6 with AUX, check "Old_Version".      
+**SPECIAL CAUTION**     
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/006-LSM6DSV%20%E3%80%8CBlueberry%E3%80%8D/CAUTION.png" width="80%">
+
 
 ### ICM-42688-「RareCheese」(With external oscillator , AUX port and DC-DC Buck power supply)        
 <img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/999-PictureFiles/Intro_3D_ICM42688“RareCheese”.png?raw=true" width="30%">          
