@@ -40,8 +40,8 @@ For the CheeseCake you will need the following components:
 There are lots of Variations of PCB included in this Project:     
 
 ### 1st Anniversary Special Edition
-<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/000-1St Anniversary SP/Intro_3D_1st_Ann?raw=true" width="30%">
-<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/000-1St Anniversary SP/Intro_1st_Ann?raw=true" width="30%">      
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/000-1St%20Anniversary%20SP/Intro_3D_1st_Ann?raw=true" width="30%">
+<img decoding="async" src="https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/000-1St%20Anniversary%20SP/Intro_1st_Ann?raw=true" width="30%">      
 
 It's been a year since the release of the cheesecake. To thank everyone for actively participating in enjoying cheesecakes, a special 1st Anniversary edition was released!    
 It includes: BNO085(SMT Type), DC-DC Buck, and battery connector(JST 1.25mm)!
