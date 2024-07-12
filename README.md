@@ -130,6 +130,9 @@ This repository contains various 3D printed components required to assemble the 
 - **Alternative Designs**:
   - [Case with USB Port Only](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.3-Chocolate-Case_TypeC-Only.stl)
   - [Case with Pogo Pins Cutout](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.1-Chocolate-Case.stl)    
+  - [Case for Knurled Insert Nuts](https://github.com/Sorakage033/SlimeVR-CheeseCake/blob/main/004-3D%20Print%20Model/001.4-Chocolate-Case_Type-C-only_insert-nuts.stl)
+    - Size of Knurled Insert Nut is `M2*5*3.5 ( M2xOD3.5, 5mm Length )` like [This](https://www.aliexpress.us/item/1005004431154591.html)
+    - No pogo pins cutout or AUX cutout, for new designs.
 - If you want a larger battery, you can use the [803040-case](https://github.com/Sorakage033/SlimeVR-CheeseCake/tree/main/004-3D%20Print%20Model/000.1-Blue-Compact-Case-For-803040-Bat) modified by Blu3u.
 
 ### Top Lid
